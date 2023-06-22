@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TableAll_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6d4b330ff2f0c7440b1f9b1fa398799e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 66239381504
+    m_Localized: PLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 162908682895360
+    m_Localized: OPTIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163341019168768
+    m_Localized: QUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164904471150592
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 165022586945536
+    m_Localized: FullScreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 165177021218816
+    m_Localized: FpsLock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 165320122482688
+    m_Localized: ShowFps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 165472782565376
+    m_Localized: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 165417145122816
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 165386002415616
+    m_Localized: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166323911704576
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166746911457280
+    m_Localized: VSync
+    m_Metadata:
+      m_Items: []
+  - m_Id: 168543751290880
+    m_Localized: Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 168943220998144
+    m_Localized: PAUSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 168998258655232
+    m_Localized: RESTART
+    m_Metadata:
+      m_Items: []
+  - m_Id: 169006693400576
+    m_Localized: NEXT LEVEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 169041267048448
+    m_Localized: BACK LEVEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 169140621721600
+    m_Localized: MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 171432225849344
+    m_Localized: RESUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177597831757824
+    m_Localized: "Game designer \nIzumskiy Dmitriy Stefanovich\n\nLead character
+      artist \nIzumskiy Dmitriy Stefanovich\n\nLead coder \nIzumskiy Dmitriy Stefanovich\n\nLead
+      developer \nIzumskiy Dmitriy Stefanovich\n\nGame director \nIzumskiy Dmitriy
+      Stefanovich\n\nProducer \nIzumskiy Dmitriy Stefanovich\n\nNarrative director
+      \nIzumskiy Dmitriy Stefanovich\n\nNarrative designer \nIzumskiy Dmitriy Stefanovich\n\nTechnical
+      director \nIzumskiy Dmitriy Stefanovich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 261666481422336
+    m_Localized: How to play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 262333111517184
+    m_Localized: 'Use the WASD keys and the mouse to play.
+
+
+      Use the A and
+      D keys to control Athena the duck and Kiki the monkey.
+
+      To control Tiki''s
+      monkey use the W and S keys.
+
+      To move the elevator - use the mouse wheel.
+
+      Control
+      the camera using the mouse with the right button pressed.
+
+
+      Write your
+      player name to be displayed in the statistics.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 264886188556288
+    m_Localized: LEADERBOARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3516671367557120
+    m_Localized: 'Time : '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3796501803806720
+    m_Localized: PLAYER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3796617826643968
+    m_Localized: TIME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3886254783967232
+    m_Localized: Enter your name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5808573658222592
+    m_Localized: reset progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6080723266936832
+    m_Localized: 'Goal : '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6080806330933248
+    m_Localized: ' hide the duck under an umbrella.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7586198561255424
+    m_Localized: RECENT
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
